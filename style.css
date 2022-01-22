@@ -46,4 +46,7 @@ font-weight: 400;
     @media (max-width: 576px) {.align-change,h4{
         text-align: center;
 
-    }}
+    }
+    .bannaer-details h1 {
+        font-size: 54px;
+    line-height: normal;}}
